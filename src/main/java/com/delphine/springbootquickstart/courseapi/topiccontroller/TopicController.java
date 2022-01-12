@@ -1,10 +1,11 @@
-package com.delphine.springbootquickstart.courseapi;
+package com.delphine.springbootquickstart.courseapi.topiccontroller;
 
-import org.springframework.web.bind.annotation.RestController;
+
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
-import java.util.List;
 import java.util.Arrays;
+import java.util.List;
 
 @RestController
 public class TopicController {
