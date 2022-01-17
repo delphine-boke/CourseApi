@@ -1,4 +1,4 @@
-package com.delphine.springbootquickstart.courseapi;
+package com.delphine.springbootquickstart.courseapi.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

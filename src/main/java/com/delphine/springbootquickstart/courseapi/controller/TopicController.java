@@ -1,6 +1,7 @@
-package com.delphine.springbootquickstart.courseapi.topiccontroller;
+package com.delphine.springbootquickstart.courseapi.controller;
 
 
+import com.delphine.springbootquickstart.courseapi.model.Topic;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

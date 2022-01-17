@@ -1,4 +1,4 @@
-package com.delphine.springbootquickstart.courseapi.topiccontroller;
+package com.delphine.springbootquickstart.courseapi.model;
 
 public class Topic {
 
